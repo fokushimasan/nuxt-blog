@@ -1,6 +1,6 @@
 # blog-with-nuxt
 
-> My ace Nuxt.js project
+> Deploy in [Blog with Nuxt.js](https://blog-with-nuxt.herokuapp.com)
 
 ## Build Setup
 
