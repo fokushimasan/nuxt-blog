@@ -72,12 +72,4 @@ module.exports = {
     name: 'fade',
     mode: 'out-in'
   },
-
-  // router: {
-  //   middleware: 'log',
-  // }
-  serverMiddleware: [
-    bodyParser.json(),
-    '~/api'
-  ]
 }
