@@ -1,6 +1,6 @@
 # blog-with-nuxt
 
-> Deploy in [Blog with Nuxt.js](https://blog-with-nuxt.herokuapp.com)
+> Running in [Blog with Nuxt.js](https://blog-with-nuxt.herokuapp.com)
 
 ## Build Setup
 
